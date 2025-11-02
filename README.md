@@ -28,7 +28,7 @@ A comprehensive ethical security tools framework with easy-to-use shortcuts for 
 
 ### Quick Install:
 ```bash
-git clone https://github.com/adamelmortaji/GOUR-Linux.git
+git clone https://github.com/WalprInirgi/GOUR-Linux.git
 cd GOUR-Linux
 chmod +x install.sh
 ./install.sh
